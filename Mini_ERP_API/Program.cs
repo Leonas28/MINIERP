@@ -38,7 +38,7 @@ app.UseCors("AllowAllOrigins");
 app.UseSwagger();
 app.UseSwaggerUI(c =>
 {
-    c.SwaggerEndpoint("/swagger/v1/swagger.json", "Quiosco API V1");
+    c.SwaggerEndpoint("/swagger/v1/swagger.json", "MINIERP");
     c.RoutePrefix = string.Empty; // Set Swagger UI at app's root
 });
 // Configure the HTTP request pipeline.
