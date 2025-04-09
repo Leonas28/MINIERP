@@ -1,0 +1,142 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\leon_\\source\\repos\\Mini_ERP_API\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{667044FF-08DF-4163-B49F-9729E94C8E16}|Mini_ERP_API\\Mini_ERP_API.csproj|c:\\users\\leon_\\source\\repos\\mini_erp_api\\mini_erp_api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{667044FF-08DF-4163-B49F-9729E94C8E16}|Mini_ERP_API\\Mini_ERP_API.csproj|solutionrelative:mini_erp_api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{667044FF-08DF-4163-B49F-9729E94C8E16}|Mini_ERP_API\\Mini_ERP_API.csproj|c:\\users\\leon_\\source\\repos\\mini_erp_api\\mini_erp_api\\models\\minierpcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{667044FF-08DF-4163-B49F-9729E94C8E16}|Mini_ERP_API\\Mini_ERP_API.csproj|solutionrelative:mini_erp_api\\models\\minierpcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{667044FF-08DF-4163-B49F-9729E94C8E16}|Mini_ERP_API\\Mini_ERP_API.csproj|c:\\users\\leon_\\source\\repos\\mini_erp_api\\mini_erp_api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{667044FF-08DF-4163-B49F-9729E94C8E16}|Mini_ERP_API\\Mini_ERP_API.csproj|solutionrelative:mini_erp_api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{667044FF-08DF-4163-B49F-9729E94C8E16}|Mini_ERP_API\\Mini_ERP_API.csproj|c:\\users\\leon_\\source\\repos\\mini_erp_api\\mini_erp_api\\controllers\\actividadecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{667044FF-08DF-4163-B49F-9729E94C8E16}|Mini_ERP_API\\Mini_ERP_API.csproj|solutionrelative:mini_erp_api\\controllers\\actividadecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{667044FF-08DF-4163-B49F-9729E94C8E16}|Mini_ERP_API\\Mini_ERP_API.csproj|c:\\users\\leon_\\source\\repos\\mini_erp_api\\mini_erp_api\\models\\actividade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{667044FF-08DF-4163-B49F-9729E94C8E16}|Mini_ERP_API\\Mini_ERP_API.csproj|solutionrelative:mini_erp_api\\models\\actividade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{667044FF-08DF-4163-B49F-9729E94C8E16}|Mini_ERP_API\\Mini_ERP_API.csproj|c:\\users\\leon_\\source\\repos\\mini_erp_api\\mini_erp_api\\models\\banco.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{667044FF-08DF-4163-B49F-9729E94C8E16}|Mini_ERP_API\\Mini_ERP_API.csproj|solutionrelative:mini_erp_api\\models\\banco.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{667044FF-08DF-4163-B49F-9729E94C8E16}|Mini_ERP_API\\Mini_ERP_API.csproj|c:\\users\\leon_\\source\\repos\\mini_erp_api\\mini_erp_api\\mini_erp_api.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{667044FF-08DF-4163-B49F-9729E94C8E16}|Mini_ERP_API\\Mini_ERP_API.csproj|solutionrelative:mini_erp_api\\mini_erp_api.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\leon_\\source\\repos\\Mini_ERP_API\\Mini_ERP_API\\appsettings.json",
+              "RelativeDocumentMoniker": "Mini_ERP_API\\appsettings.json",
+              "ToolTip": "C:\\Users\\leon_\\source\\repos\\Mini_ERP_API\\Mini_ERP_API\\appsettings.json*",
+              "RelativeToolTip": "Mini_ERP_API\\appsettings.json*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-04-09T01:12:29.681Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\leon_\\source\\repos\\Mini_ERP_API\\Mini_ERP_API\\Program.cs",
+              "RelativeDocumentMoniker": "Mini_ERP_API\\Program.cs",
+              "ToolTip": "C:\\Users\\leon_\\source\\repos\\Mini_ERP_API\\Mini_ERP_API\\Program.cs",
+              "RelativeToolTip": "Mini_ERP_API\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAD4vxIAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-09T01:02:44.85Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ActividadeController.cs",
+              "DocumentMoniker": "C:\\Users\\leon_\\source\\repos\\Mini_ERP_API\\Mini_ERP_API\\Controllers\\ActividadeController.cs",
+              "RelativeDocumentMoniker": "Mini_ERP_API\\Controllers\\ActividadeController.cs",
+              "ToolTip": "C:\\Users\\leon_\\source\\repos\\Mini_ERP_API\\Mini_ERP_API\\Controllers\\ActividadeController.cs",
+              "RelativeToolTip": "Mini_ERP_API\\Controllers\\ActividadeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-09T00:59:27.716Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Actividade.cs",
+              "DocumentMoniker": "C:\\Users\\leon_\\source\\repos\\Mini_ERP_API\\Mini_ERP_API\\Models\\Actividade.cs",
+              "RelativeDocumentMoniker": "Mini_ERP_API\\Models\\Actividade.cs",
+              "ToolTip": "C:\\Users\\leon_\\source\\repos\\Mini_ERP_API\\Mini_ERP_API\\Models\\Actividade.cs",
+              "RelativeToolTip": "Mini_ERP_API\\Models\\Actividade.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-09T00:54:55.791Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Banco.cs",
+              "DocumentMoniker": "C:\\Users\\leon_\\source\\repos\\Mini_ERP_API\\Mini_ERP_API\\Models\\Banco.cs",
+              "RelativeDocumentMoniker": "Mini_ERP_API\\Models\\Banco.cs",
+              "ToolTip": "C:\\Users\\leon_\\source\\repos\\Mini_ERP_API\\Mini_ERP_API\\Models\\Banco.cs",
+              "RelativeToolTip": "Mini_ERP_API\\Models\\Banco.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-09T00:54:33.019Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MinierpContext.cs",
+              "DocumentMoniker": "C:\\Users\\leon_\\source\\repos\\Mini_ERP_API\\Mini_ERP_API\\Models\\MinierpContext.cs",
+              "RelativeDocumentMoniker": "Mini_ERP_API\\Models\\MinierpContext.cs",
+              "ToolTip": "C:\\Users\\leon_\\source\\repos\\Mini_ERP_API\\Mini_ERP_API\\Models\\MinierpContext.cs*",
+              "RelativeToolTip": "Mini_ERP_API\\Models\\MinierpContext.cs*",
+              "ViewState": "AgIAAPEAAAAAAAAAAAAywPoAAABGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-09T00:51:53.275Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Mini_ERP_API",
+              "DocumentMoniker": "C:\\Users\\leon_\\source\\repos\\Mini_ERP_API\\Mini_ERP_API\\Mini_ERP_API.csproj",
+              "RelativeDocumentMoniker": "Mini_ERP_API\\Mini_ERP_API.csproj",
+              "ToolTip": "C:\\Users\\leon_\\source\\repos\\Mini_ERP_API\\Mini_ERP_API\\Mini_ERP_API.csproj",
+              "RelativeToolTip": "Mini_ERP_API\\Mini_ERP_API.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-04-09T00:16:18.144Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
